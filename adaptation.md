@@ -11,3 +11,5 @@
    
 5.  rem  
     **rem（font size of the root element）是指相对于根元素的字体大小的单位**
+6.  vw vh vmax vmin
+7.  事件（交互）
